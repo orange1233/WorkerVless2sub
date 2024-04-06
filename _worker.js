@@ -7,6 +7,25 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 let addresses = [
 	'icook.tw:2053#官方优选域名',
 	'cloudflare.cfgo.cc#优选官方线路',
+	'cf.090227.xyz:443#优选官方线路',
+	'sp.rweek.top:443#优选官方线路',
+	'time.cloudflare.com#官方优选域名',
+	'shopify.com#官方优选域名',
+	'time.is#官方优选域名',
+	'icook.hk#官方优选域名',
+	'icook.tw#官方优选域名',
+	'ip.sb#官方优选域名',
+	'japan.com#官方优选域名',
+	'malaysia.com#官方优选域名',
+	'russia.com#官方优选域名',
+	'singapore.com#官方优选域名',
+	'skk.moe#官方优选域名',
+	'www.visa.com#官方优选域名',
+	'www.visa.com.sg#官方优选域名',
+	'www.visa.com.hk#官方优选域名',
+	'www.visa.com.tw#官方优选域名',
+	'www.visa.co.jp#官方优选域名',
+	'www.visakorea.com#官方优选域名',
 ];
 
 // 设置优选地址api接口
@@ -20,6 +39,10 @@ let addressesnotls = [
 	'www.visa.com.sg#官方优选域名',
 	'www.wto.org:8080#官方优选域名',
 	'www.who.int:8880#官方优选域名',
+	'cfip.xxxxxxxx.tk:2096#官方优选域名',
+	'cdn.kaiche.tk:2096#官方优选域名',
+	'c.xf.free.hr:2087#官方优选域名',
+	'hk.rweek.top:2052#官方优选域名',
 ];
 
 // 设置优选noTLS地址api接口
